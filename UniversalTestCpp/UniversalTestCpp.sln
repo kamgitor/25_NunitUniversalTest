@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UniversalTestCpp", "UniversalTestCpp\UniversalTestCpp.vcproj", "{9282F0D9-E8DA-43CB-9163-6785368B729C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9282F0D9-E8DA-43CB-9163-6785368B729C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9282F0D9-E8DA-43CB-9163-6785368B729C}.Debug|Win32.Build.0 = Debug|Win32
+		{9282F0D9-E8DA-43CB-9163-6785368B729C}.Release|Win32.ActiveCfg = Release|Win32
+		{9282F0D9-E8DA-43CB-9163-6785368B729C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+k:\ProjektyC#\25_NunitUniversalTest\NunitTests\UnityLib\bin\Release\UnityLib.dll.config
+k:\ProjektyC#\25_NunitUniversalTest\NunitTests\UnityLib\bin\Release\UnityLib.dll
+k:\ProjektyC#\25_NunitUniversalTest\NunitTests\UnityLib\bin\Release\UnityLib.pdb
+k:\ProjektyC#\25_NunitUniversalTest\NunitTests\UnityLib\bin\Release\nunit.framework.dll
+k:\ProjektyC#\25_NunitUniversalTest\NunitTests\UnityLib\bin\Release\UniversalTestCpp.exe
+k:\ProjektyC#\25_NunitUniversalTest\NunitTests\UnityLib\bin\Release\UniversalTestCpp.pdb
+k:\ProjektyC#\25_NunitUniversalTest\NunitTests\UnityLib\obj\Release\ResolveAssemblyReference.cache
+k:\ProjektyC#\25_NunitUniversalTest\NunitTests\UnityLib\obj\Release\UnityLib.dll
+k:\ProjektyC#\25_NunitUniversalTest\NunitTests\UnityLib\obj\Release\UnityLib.pdb
